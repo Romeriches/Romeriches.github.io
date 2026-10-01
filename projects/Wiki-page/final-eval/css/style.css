@@ -14,3 +14,9 @@ body {
     margin-right: auto;
     text-align: center;
 }
+
+.button {
+    text-decoration: non;
+    color: black;
+    display: inline-block;
+}
